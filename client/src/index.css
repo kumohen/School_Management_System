@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f2f4f6;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+.link_class {
+   color: white;
+   font-size:20px ;
+   text-decoration: none;
+   height: 10px;
+}
+.landing_img{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin: auto;
+}
+.st_input_class{
+  height: 70px;
+}
+.mod_input_class{
+  height: 50px;
+}
+.stregis_incls{
+  height: 55px;
+}
+.title_style{
+  height: 70px;
+  background: linear-gradient(90deg, rgba(79,99,205,1) 2%, rgba(151,111,91,1) 42%, rgba(73,214,137,1) 76%, rgba(182,130,80,1) 93%);
+  border-radius: 15px;
+ margin-bottom: 20px;
+ text-align: center;
+ color: #f2f4f6;
+ font-weight: bolder;
+ 
+}
+
+.input-field{
+  height: 50px;
+  width: 240px;
+  margin-left: 100px;
+  background-color: rgb(84, 115, 181);
+}
+#selectId{
+  height: 35px;
+}
+
+.btn_regis{
+  height: 50px;
+  margin-left: 10px; 
+}
+.edit_profile{
+  text-decoration: none;
+  position:  absolute;
+ 
+  margin-left: 209px;
+  
+    margin-top: -62px;
+  
+}
+
+.mark_button{
+  height: 40px;
+ 
+  background-color: aqua;
+}

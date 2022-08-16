@@ -1,0 +1,54 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "13.0.1",
+    "npm": "6.12.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.17.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.25.0",
+    "chart.js": "^2.9.3",
+    "materialize-css": "^1.0.0",
+    "moment": "^2.29.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-chartjs-2": "^2.11.2",
+    "react-dom": "^18.2.0",
+    "react-moment": "^1.1.1",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-stripe-checkout": "^2.6.3",
+    "react-to-pdf": "0.0.14",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "sweetalert": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
